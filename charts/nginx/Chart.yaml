@@ -1,0 +1,8 @@
+annotations:
+  catalog.cattle.io/display-name: test-nginx
+  catalog.cattle.io/release-name: test-nginx
+apiVersion: v2
+appVersion: 1.16.0
+description: nginx test
+name: test-nginx
+version: 0.1.0
